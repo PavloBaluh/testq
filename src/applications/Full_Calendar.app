@@ -3,5 +3,4 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <description>A demo of lightning components using jQuery FullCalendar</description>
     <label>Full Calendar</label>
-    <tab>Full_Calendar</tab>
 </CustomApplication>
